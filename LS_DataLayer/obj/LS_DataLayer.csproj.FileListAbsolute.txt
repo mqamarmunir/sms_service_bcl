@@ -1,0 +1,10 @@
+H:\Working\Trees Software\RMI\Web\LIMS\LIMSLayers\LS_DataLayer\bin\Debug\LS_DataLayer.dll
+H:\Working\Trees Software\RMI\Web\LIMS\LIMSLayers\LS_DataLayer\bin\Debug\LS_DataLayer.pdb
+H:\Working\Trees Software\RMI\Web\LIMS\LIMSLayers\LS_DataLayer\obj\Debug\ResolveAssemblyReference.cache
+H:\Working\Trees Software\RMI\Web\LIMS\LIMSLayers\LS_DataLayer\obj\Debug\LS_DataLayer.dll
+H:\Working\Trees Software\RMI\Web\LIMS\LIMSLayers\LS_DataLayer\obj\Debug\LS_DataLayer.pdb
+G:\Projects\LIMS\LIMSLayers\LS_DataLayer\bin\Debug\LS_DataLayer.dll
+G:\Projects\LIMS\LIMSLayers\LS_DataLayer\bin\Debug\LS_DataLayer.pdb
+G:\Projects\LIMS\LIMSLayers\LS_DataLayer\obj\Debug\ResolveAssemblyReference.cache
+G:\Projects\LIMS\LIMSLayers\LS_DataLayer\obj\Debug\LS_DataLayer.dll
+G:\Projects\LIMS\LIMSLayers\LS_DataLayer\obj\Debug\LS_DataLayer.pdb

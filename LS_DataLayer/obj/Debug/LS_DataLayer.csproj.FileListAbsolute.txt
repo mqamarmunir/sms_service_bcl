@@ -1,0 +1,40 @@
+D:\LIMS r\LIMSLayers\LS_DataLayer\bin\Debug\LS_DataLayer.dll
+D:\LIMS r\LIMSLayers\LS_DataLayer\bin\Debug\LS_DataLayer.pdb
+D:\LIMS r\LIMSLayers\LS_DataLayer\obj\Debug\ResolveAssemblyReference.cache
+D:\LIMS r\LIMSLayers\LS_DataLayer\obj\Debug\LS_DataLayer.dll
+D:\LIMS r\LIMSLayers\LS_DataLayer\obj\Debug\LS_DataLayer.pdb
+D:\Qamar\LIMS r after Rich Text Box\LIMSLayers\LS_DataLayer\bin\Debug\LS_DataLayer.dll
+D:\Qamar\LIMS r after Rich Text Box\LIMSLayers\LS_DataLayer\bin\Debug\LS_DataLayer.pdb
+D:\Qamar\LIMS r after Rich Text Box\LIMSLayers\LS_DataLayer\obj\Debug\ResolveAssemblyReference.cache
+D:\Qamar\LIMS r after Rich Text Box\LIMSLayers\LS_DataLayer\obj\Debug\LS_DataLayer.dll
+D:\Qamar\LIMS r after Rich Text Box\LIMSLayers\LS_DataLayer\obj\Debug\LS_DataLayer.pdb
+D:\Qamar\9.50 LIMS r after Rich Text Box\LIMSLayers\LS_DataLayer\bin\Debug\LS_DataLayer.dll
+D:\Qamar\9.50 LIMS r after Rich Text Box\LIMSLayers\LS_DataLayer\bin\Debug\LS_DataLayer.pdb
+D:\Qamar\9.50 LIMS r after Rich Text Box\LIMSLayers\LS_DataLayer\obj\Debug\ResolveAssemblyReference.cache
+D:\Qamar\9.50 LIMS r after Rich Text Box\LIMSLayers\LS_DataLayer\obj\Debug\LS_DataLayer.dll
+D:\Qamar\9.50 LIMS r after Rich Text Box\LIMSLayers\LS_DataLayer\obj\Debug\LS_DataLayer.pdb
+D:\Qamar\3.55 LIMS r after Rich Text Box\LIMSLayers\LS_DataLayer\bin\Debug\LS_DataLayer.dll
+D:\Qamar\3.55 LIMS r after Rich Text Box\LIMSLayers\LS_DataLayer\bin\Debug\LS_DataLayer.pdb
+D:\Qamar\3.55 LIMS r after Rich Text Box\LIMSLayers\LS_DataLayer\obj\Debug\ResolveAssemblyReference.cache
+D:\Qamar\3.55 LIMS r after Rich Text Box\LIMSLayers\LS_DataLayer\obj\Debug\LS_DataLayer.dll
+D:\Qamar\3.55 LIMS r after Rich Text Box\LIMSLayers\LS_DataLayer\obj\Debug\LS_DataLayer.pdb
+E:\Qamar\3.55 LIMS r after Rich Text Box\LIMSLayers\LS_DataLayer\bin\Debug\LS_DataLayer.dll
+E:\Qamar\3.55 LIMS r after Rich Text Box\LIMSLayers\LS_DataLayer\bin\Debug\LS_DataLayer.pdb
+E:\Qamar\3.55 LIMS r after Rich Text Box\LIMSLayers\LS_DataLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\Qamar\3.55 LIMS r after Rich Text Box\LIMSLayers\LS_DataLayer\obj\Debug\LS_DataLayer.dll
+E:\Qamar\3.55 LIMS r after Rich Text Box\LIMSLayers\LS_DataLayer\obj\Debug\LS_DataLayer.pdb
+D:\Qamar\Trees-RMI\3.55 LIMS r after Rich Text Box\LIMSLayers\LS_DataLayer\bin\Debug\LS_DataLayer.dll
+D:\Qamar\Trees-RMI\3.55 LIMS r after Rich Text Box\LIMSLayers\LS_DataLayer\bin\Debug\LS_DataLayer.pdb
+D:\Qamar\Trees-RMI\3.55 LIMS r after Rich Text Box\LIMSLayers\LS_DataLayer\obj\Debug\ResolveAssemblyReference.cache
+D:\Qamar\Trees-RMI\3.55 LIMS r after Rich Text Box\LIMSLayers\LS_DataLayer\obj\Debug\LS_DataLayer.dll
+D:\Qamar\Trees-RMI\3.55 LIMS r after Rich Text Box\LIMSLayers\LS_DataLayer\obj\Debug\LS_DataLayer.pdb
+D:\Qamar\RMI\3.55 LIMS r after Rich Text Box\LIMSLayers\LS_DataLayer\bin\Debug\LS_DataLayer.dll
+D:\Qamar\RMI\3.55 LIMS r after Rich Text Box\LIMSLayers\LS_DataLayer\bin\Debug\LS_DataLayer.pdb
+D:\Qamar\RMI\3.55 LIMS r after Rich Text Box\LIMSLayers\LS_DataLayer\obj\Debug\ResolveAssemblyReference.cache
+D:\Qamar\RMI\3.55 LIMS r after Rich Text Box\LIMSLayers\LS_DataLayer\obj\Debug\LS_DataLayer.dll
+D:\Qamar\RMI\3.55 LIMS r after Rich Text Box\LIMSLayers\LS_DataLayer\obj\Debug\LS_DataLayer.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\sms_service\LS_DataLayer\bin\Debug\LS_DataLayer.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\sms_service\LS_DataLayer\bin\Debug\LS_DataLayer.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\sms_service\LS_DataLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\sms_service\LS_DataLayer\obj\Debug\LS_DataLayer.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\sms_service\LS_DataLayer\obj\Debug\LS_DataLayer.pdb

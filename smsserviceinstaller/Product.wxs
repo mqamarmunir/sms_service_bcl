@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Wix xmlns="http://schemas.microsoft.com/wix/2006/wi" xmlns:netfx="http://schemas.microsoft.com/wix/NetFxExtension">
+
+  <Product Name="Trees sms Service"
+           Id="*"
+           UpgradeCode="{9F22BA8C-A121-47E4-A2F0-90F61AB9EEA8}"
+           Manufacturer="Trees"
+           Version="1.1.000"
+           Language="1033">
+
+    <Package InstallerVersion="200"
+             Compressed="yes" />
+    <Media Id="1"
+           Cabinet="media1.cab"
+           EmbedCab="yes" />
+    <Directory Id="TARGETDIR"
+               Name="SourceDir">
+      <Directory Id="INSTALLDIR"
+                 Name="PFiles">
+        <Directory Id="Trees"
+                   Name="Trees">
+          <Directory Id="smsservice"
+                     Name="smsservice">
+            <Component Id="Trees.smsservice"
+                       Guid="{9F22BA8C-A121-47E4-A2F0-90F61AB9EEA8}">
+              <File Id="sms_service.exe"
+                    Name="sms_service.exe"
+                    Source="..\sms_service\bin\Debug\sms_service.exe"
+                    Vital="yes"
+                    KeyPath="yes"
+                    DiskId="1" />
+              <File Id="sms_service.exe.config"
+                    Name="sms_service.exe.config"
+                    Source="..\sms_service\bin\Debug\sms_service.exe.config"
+                    Vital="yes"
+                    KeyPath="no"
+                    DiskId="1" />
+              <File Id="LS_BusinessLayer.dll"
+                    Name="LS_BusinessLayer.dll"
+                    Source="..\sms_service\bin\Debug\LS_BusinessLayer.dll"
+                    Vital="yes"
+                    KeyPath="no"
+                    DiskId="1" />
+              <File Id="DataLayer.dll"
+                    Name="DataLayer.dll"
+                    Source="..\sms_service\bin\Debug\DataLayer.dll"
+                    Vital="yes"
+                    KeyPath="no"
+                    DiskId="1" />
+              <ServiceInstall Id="ServiceInstaller"
+                              Type="ownProcess"
+                              Vital="yes"
+                              Name="Trees:smsservice"
+                              DisplayName="Trees:smsservice"
+                              Description="Trees SMS Service"
+                              Start="auto"
+                              Account="LocalSystem"
+                              ErrorControl="ignore"
+                              Interactive="no" />
+              <ServiceControl Id="StartService"
+                              Start="install"
+                              Stop="both"
+                              Remove="uninstall"
+                              Name="Trees:smsservice"
+                              Wait="yes" />
+            </Component>
+          </Directory>
+        </Directory>
+      </Directory>
+    </Directory>
+    <Feature Id="ProductFeature"
+             Title="Trees:smsservice"
+             Level="1">
+      <ComponentRef Id="Trees.smsservice" />
+    </Feature>
+    <PropertyRef Id="NETFRAMEWORK40CLIENT" />
+    <Condition Message=".Net Framework v4.000 is required to procedd further. Please install .Net 4 and then start this installer">
+      <![CDATA[Installed OR NETFRAMEWORK40CLIENT]]>
+    </Condition>
+  </Product>
+</Wix>

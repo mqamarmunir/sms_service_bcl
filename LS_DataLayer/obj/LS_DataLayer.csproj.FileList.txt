@@ -1,0 +1,8 @@
+bin\Release\LS_DataLayer.dll
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\LS_DataLayer.dll
+bin\Debug\LS_DataLayer.dll
+bin\Debug\LS_DataLayer.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\LS_DataLayer.dll
+obj\Debug\LS_DataLayer.pdb

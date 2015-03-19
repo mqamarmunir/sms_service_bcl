@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="LS_DataLayer">
+</Property><Property Name="Solution File" Value="D:\MyWebsites\HMIS\LIMSLayers\LS_DataLayer\LS_DataLayer.sln">
+</Property><Property Name="Date" Value="Monday, May 28, 2007">
+</Property><Property Name="Time" Value="21:33 PM">
+</Property></Properties><Event ErrorLevel="0" Project="LS_DataLayer" Source="LS_DataLayer.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="LS_DataLayer" Source="LS_DataLayer.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="LS_DataLayer.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="LS_DataLayer.sln" Description="Converted">
+</Event></UpgradeLog>

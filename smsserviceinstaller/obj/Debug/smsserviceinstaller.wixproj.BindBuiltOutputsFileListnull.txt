@@ -1,0 +1,2 @@
+D:\Muhammad Qamar\sms_service_bcl\smsserviceinstaller\bin\Debug\smsserviceinstaller.msi
+D:\Muhammad Qamar\sms_service_bcl\smsserviceinstaller\bin\Debug\smsserviceinstaller.wixpdb

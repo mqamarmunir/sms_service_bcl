@@ -1,0 +1,6 @@
+obj\Debug\Product.wixobj
+D:\Muhammad Qamar\sms_service_bcl\smsserviceinstaller\bin\Debug\smsserviceinstaller.msi
+D:\Muhammad Qamar\sms_service_bcl\smsserviceinstaller\bin\Debug\smsserviceinstaller.wixpdb
+obj\Debug\smsserviceinstaller.wixproj.BindContentsFileListnull.txt
+obj\Debug\smsserviceinstaller.wixproj.BindOutputsFileListnull.txt
+obj\Debug\smsserviceinstaller.wixproj.BindBuiltOutputsFileListnull.txt

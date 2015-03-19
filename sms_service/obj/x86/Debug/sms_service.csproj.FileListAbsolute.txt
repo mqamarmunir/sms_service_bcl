@@ -1,0 +1,30 @@
+c:\users\administrator\documents\visual studio 2010\Projects\sms_service\sms_service\bin\Debug\sms_service.exe
+c:\users\administrator\documents\visual studio 2010\Projects\sms_service\sms_service\bin\Debug\sms_service.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\sms_service\sms_service\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2010\Projects\sms_service\sms_service\obj\x86\Debug\sms_service.ProjectInstaller.resources
+c:\users\administrator\documents\visual studio 2010\Projects\sms_service\sms_service\obj\x86\Debug\sms_service.Service1.resources
+c:\users\administrator\documents\visual studio 2010\Projects\sms_service\sms_service\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\administrator\documents\visual studio 2010\Projects\sms_service\sms_service\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\administrator\documents\visual studio 2010\Projects\sms_service\sms_service\obj\x86\Debug\sms_service.exe
+c:\users\administrator\documents\visual studio 2010\Projects\sms_service\sms_service\obj\x86\Debug\sms_service.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\sms_service\sms_service\bin\Debug\sms_service.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\sms_service\sms_service\bin\Debug\LS_BusinessLayer.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\sms_service\sms_service\bin\Debug\LS_DataLayer.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\sms_service\sms_service\bin\Debug\LS_BusinessLayer.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\sms_service\sms_service\bin\Debug\LS_DataLayer.pdb
+D:\Muhammad Qamar\sms_service\sms_service\bin\Debug\sms_service.exe.config
+D:\Muhammad Qamar\sms_service\sms_service\obj\x86\Debug\sms_service.exe
+D:\Muhammad Qamar\sms_service\sms_service\obj\x86\Debug\sms_service.pdb
+D:\Muhammad Qamar\sms_service_bcl\sms_service\bin\Debug\sms_service.exe.config
+D:\Muhammad Qamar\sms_service_bcl\sms_service\obj\x86\Debug\sms_service.exe
+D:\Muhammad Qamar\sms_service_bcl\sms_service\obj\x86\Debug\sms_service.pdb
+D:\Muhammad Qamar\sms_service_bcl\sms_service\bin\Debug\sms_service.exe
+D:\Muhammad Qamar\sms_service_bcl\sms_service\bin\Debug\sms_service.pdb
+D:\Muhammad Qamar\sms_service_bcl\sms_service\bin\Debug\LS_BusinessLayer.pdb
+D:\Muhammad Qamar\sms_service_bcl\sms_service\obj\x86\Debug\sms_service.csprojResolveAssemblyReference.cache
+D:\Muhammad Qamar\sms_service_bcl\sms_service\obj\x86\Debug\sms_service.ProjectInstaller.resources
+D:\Muhammad Qamar\sms_service_bcl\sms_service\obj\x86\Debug\sms_service.csproj.GenerateResource.Cache
+D:\Muhammad Qamar\sms_service_bcl\sms_service\bin\Debug\LS_BusinessLayer.dll
+D:\Muhammad Qamar\sms_service_bcl\sms_service\bin\Debug\DataLayer.dll
+D:\Muhammad Qamar\sms_service_bcl\sms_service\bin\Debug\DataLayer.pdb
+D:\Muhammad Qamar\sms_service_bcl\sms_service\obj\x86\Debug\sms_service.sms_service.resources

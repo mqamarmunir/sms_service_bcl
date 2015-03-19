@@ -1,0 +1,14 @@
+H:\Working\Trees Software\RMI\Web\LIMS\LIMSLayers\LS_BusinessLayer\bin\Debug\LS_BusinessLayer.dll
+H:\Working\Trees Software\RMI\Web\LIMS\LIMSLayers\LS_BusinessLayer\bin\Debug\LS_BusinessLayer.pdb
+H:\Working\Trees Software\RMI\Web\LIMS\LIMSLayers\LS_BusinessLayer\bin\Debug\LS_DataLayer.dll
+H:\Working\Trees Software\RMI\Web\LIMS\LIMSLayers\LS_BusinessLayer\bin\Debug\LS_DataLayer.pdb
+H:\Working\Trees Software\RMI\Web\LIMS\LIMSLayers\LS_BusinessLayer\obj\Debug\ResolveAssemblyReference.cache
+H:\Working\Trees Software\RMI\Web\LIMS\LIMSLayers\LS_BusinessLayer\obj\Debug\LS_BusinessLayer.dll
+H:\Working\Trees Software\RMI\Web\LIMS\LIMSLayers\LS_BusinessLayer\obj\Debug\LS_BusinessLayer.pdb
+G:\Projects\LIMS\LIMSLayers\LS_BusinessLayer\bin\Debug\LS_BusinessLayer.dll
+G:\Projects\LIMS\LIMSLayers\LS_BusinessLayer\bin\Debug\LS_BusinessLayer.pdb
+G:\Projects\LIMS\LIMSLayers\LS_BusinessLayer\bin\Debug\LS_DataLayer.dll
+G:\Projects\LIMS\LIMSLayers\LS_BusinessLayer\bin\Debug\LS_DataLayer.pdb
+G:\Projects\LIMS\LIMSLayers\LS_BusinessLayer\obj\Debug\ResolveAssemblyReference.cache
+G:\Projects\LIMS\LIMSLayers\LS_BusinessLayer\obj\Debug\LS_BusinessLayer.dll
+G:\Projects\LIMS\LIMSLayers\LS_BusinessLayer\obj\Debug\LS_BusinessLayer.pdb

@@ -1,0 +1,131 @@
+﻿Installing assembly 'D:\Muhammad Qamar\sms_service_bcl\sms_service\bin\debug\sms_service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Muhammad Qamar\sms_service_bcl\sms_service\bin\debug\sms_service.InstallLog
+   assemblypath = D:\Muhammad Qamar\sms_service_bcl\sms_service\bin\debug\sms_service.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'D:\Muhammad Qamar\sms_service_bcl\sms_service\bin\debug\sms_service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Muhammad Qamar\sms_service_bcl\sms_service\bin\debug\sms_service.InstallLog
+   assemblypath = D:\Muhammad Qamar\sms_service_bcl\sms_service\bin\debug\sms_service.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'D:\Muhammad Qamar\sms_service_bcl\sms_service\bin\debug\sms_service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Muhammad Qamar\sms_service_bcl\sms_service\bin\debug\sms_service.InstallLog
+   assemblypath = D:\Muhammad Qamar\sms_service_bcl\sms_service\bin\debug\sms_service.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'D:\Muhammad Qamar\sms_service_bcl\sms_service\bin\debug\sms_service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Muhammad Qamar\sms_service_bcl\sms_service\bin\debug\sms_service.InstallLog
+   assemblypath = D:\Muhammad Qamar\sms_service_bcl\sms_service\bin\debug\sms_service.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'D:\Muhammad Qamar\sms_service_bcl\sms_service\bin\Debug\sms_service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Muhammad Qamar\sms_service_bcl\sms_service\bin\Debug\sms_service.InstallLog
+   assemblypath = D:\Muhammad Qamar\sms_service_bcl\sms_service\bin\Debug\sms_service.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\Muhammad Qamar\sms_service_bcl\sms_service\bin\Debug\sms_service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Muhammad Qamar\sms_service_bcl\sms_service\bin\Debug\sms_service.InstallLog
+   assemblypath = D:\Muhammad Qamar\sms_service_bcl\sms_service\bin\Debug\sms_service.exe
+Uninstalling assembly 'D:\Muhammad Qamar\sms_service_bcl\sms_service\bin\Debug\sms_service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Muhammad Qamar\sms_service_bcl\sms_service\bin\Debug\sms_service.InstallLog
+   assemblypath = D:\Muhammad Qamar\sms_service_bcl\sms_service\bin\Debug\sms_service.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'D:\Muhammad Qamar\sms_service_bcl\sms_service\bin\Debug\sms_service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Muhammad Qamar\sms_service_bcl\sms_service\bin\Debug\sms_service.InstallLog
+   assemblypath = D:\Muhammad Qamar\sms_service_bcl\sms_service\bin\Debug\sms_service.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\Muhammad Qamar\sms_service_bcl\sms_service\bin\Debug\sms_service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Muhammad Qamar\sms_service_bcl\sms_service\bin\Debug\sms_service.InstallLog
+   assemblypath = D:\Muhammad Qamar\sms_service_bcl\sms_service\bin\Debug\sms_service.exe
+Uninstalling assembly 'D:\Muhammad Qamar\sms_service_bcl\sms_service\bin\Debug\sms_service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Muhammad Qamar\sms_service_bcl\sms_service\bin\Debug\sms_service.InstallLog
+   assemblypath = D:\Muhammad Qamar\sms_service_bcl\sms_service\bin\Debug\sms_service.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'D:\Muhammad Qamar\sms_service_bcl\sms_service\bin\Debug\sms_service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Muhammad Qamar\sms_service_bcl\sms_service\bin\Debug\sms_service.InstallLog
+   assemblypath = D:\Muhammad Qamar\sms_service_bcl\sms_service\bin\Debug\sms_service.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\Muhammad Qamar\sms_service_bcl\sms_service\bin\Debug\sms_service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Muhammad Qamar\sms_service_bcl\sms_service\bin\Debug\sms_service.InstallLog
+   assemblypath = D:\Muhammad Qamar\sms_service_bcl\sms_service\bin\Debug\sms_service.exe
+Uninstalling assembly 'D:\Muhammad Qamar\sms_service_bcl\sms_service\bin\Debug\sms_service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Muhammad Qamar\sms_service_bcl\sms_service\bin\Debug\sms_service.InstallLog
+   assemblypath = D:\Muhammad Qamar\sms_service_bcl\sms_service\bin\Debug\sms_service.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'D:\Muhammad Qamar\sms_service_bcl\sms_service\bin\Debug\sms_service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Muhammad Qamar\sms_service_bcl\sms_service\bin\Debug\sms_service.InstallLog
+   assemblypath = D:\Muhammad Qamar\sms_service_bcl\sms_service\bin\Debug\sms_service.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\Muhammad Qamar\sms_service_bcl\sms_service\bin\Debug\sms_service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Muhammad Qamar\sms_service_bcl\sms_service\bin\Debug\sms_service.InstallLog
+   assemblypath = D:\Muhammad Qamar\sms_service_bcl\sms_service\bin\Debug\sms_service.exe
+Uninstalling assembly 'D:\Muhammad Qamar\sms_service_bcl\sms_service\bin\Debug\sms_service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Muhammad Qamar\sms_service_bcl\sms_service\bin\Debug\sms_service.InstallLog
+   assemblypath = D:\Muhammad Qamar\sms_service_bcl\sms_service\bin\Debug\sms_service.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'D:\Muhammad Qamar\sms_service_bcl\sms_service\bin\Debug\sms_service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Muhammad Qamar\sms_service_bcl\sms_service\bin\Debug\sms_service.InstallLog
+   assemblypath = D:\Muhammad Qamar\sms_service_bcl\sms_service\bin\Debug\sms_service.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\Muhammad Qamar\sms_service_bcl\sms_service\bin\Debug\sms_service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Muhammad Qamar\sms_service_bcl\sms_service\bin\Debug\sms_service.InstallLog
+   assemblypath = D:\Muhammad Qamar\sms_service_bcl\sms_service\bin\Debug\sms_service.exe
+Uninstalling assembly 'D:\Muhammad Qamar\sms_service_bcl\sms_service\bin\Debug\sms_service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Muhammad Qamar\sms_service_bcl\sms_service\bin\Debug\sms_service.InstallLog
+   assemblypath = D:\Muhammad Qamar\sms_service_bcl\sms_service\bin\Debug\sms_service.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.

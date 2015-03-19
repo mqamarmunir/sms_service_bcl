@@ -1,0 +1,4 @@
+..\sms_service\bin\Debug\DataLayer.dll
+..\sms_service\bin\Debug\LS_BusinessLayer.dll
+..\sms_service\bin\Debug\sms_service.exe
+..\sms_service\bin\Debug\sms_service.exe.config
